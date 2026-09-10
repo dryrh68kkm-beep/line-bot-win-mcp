@@ -1,0 +1,35 @@
+{
+  "chatBarText": "เมนูหลัก",
+  "actions": [
+    {
+      "type": "message",
+      "label": "ถาม Policy บริษัท",
+      "text": "ถาม Policy บริษัท"
+    },
+    {
+      "type": "uri",
+      "label": "แจ้งเหตุ 24H",
+      "uri": "https://REPLACE_WITH_24H_INCIDENT_REPORT_URL"
+    },
+    {
+      "type": "uri",
+      "label": "เช็กสินค้าใกล้หมดอายุ",
+      "uri": "https://REPLACE_WITH_EXPIRY_DASHBOARD_URL"
+    },
+    {
+      "type": "uri",
+      "label": "ค้นหาสินค้า / Barcode",
+      "uri": "https://REPLACE_WITH_SCAN_FORM_URL"
+    },
+    {
+      "type": "uri",
+      "label": "ดูข้อมูลสรุป",
+      "uri": "https://REPLACE_WITH_DASHBOARD_URL"
+    },
+    {
+      "type": "message",
+      "label": "ผู้ช่วย AI",
+      "text": "ผู้ช่วย AI"
+    }
+  ]
+}
